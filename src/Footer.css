@@ -1,0 +1,14 @@
+.footer {
+    border-top: 10px groove #495e57;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+.footer img {
+    width: 150px;
+}
