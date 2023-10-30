@@ -7,7 +7,6 @@ const Book = () => {
                     <label for="user-first-name">Name: </label>
                     <input type="text" id="user-first-name" name="user-first-name" required="" />
                     
-                    
                 </div>
 
                 <div>
